@@ -8,6 +8,8 @@ draft: false
 lightgallery: true
 fontawesome: true
 
+comment :
+  enable: false
 math:
   enable: true
 ---

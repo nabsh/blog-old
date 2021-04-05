@@ -1,17 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Blog de Nabil Sheikh Hassan</title>
-        <link>blog.sheikhhassan.com/</link>
+        <link>/</link>
         <description>Un blog alors que plus personne fait ça</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>nabil@sheikhhassan.com (Nabil Sheikh Hassan)</managingEditor>
             <webMaster>nabil@sheikhhassan.com (Nabil Sheikh Hassan)</webMaster><lastBuildDate>Thu, 01 Apr 2021 23:12:09 &#43;0200</lastBuildDate>
-            <atom:link href="blog.sheikhhassan.com/index.xml" rel="self" type="application/rss+xml" />
-        <item>
-    <title>Hello world</title>
-    <link>blog.sheikhhassan.com/first_post/</link>
-    <pubDate>Thu, 01 Apr 2021 17:37:13 &#43;0200</pubDate>
-    <author>Author</author>
-    <guid>blog.sheikhhassan.com/first_post/</guid>
-    <description><![CDATA[gfdgdf]]></description>
-</item></channel>
+            <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
 </rss>
