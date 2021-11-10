@@ -1,28 +1,24 @@
 ---
-title: "Hello world"
-subtitle: "Ou comment tester son blog"
-date: 2021-04-01T17:37:13+02:00
-lastmod: 2021-04-01T17:37:13+02:00
-draft: true
-author: ""
-authorLink: ""
-description: Ceci est un résumé de l'article
-
-tags: []
-categories: []
-
+license: ""
+draft: false
 hiddenFromHomePage: false
-hiddenFromSearch: false
-
-featuredImage: ""
-featuredImagePreview: ""
-
+authorLink: ""
 toc:
   enable: true
 math:
   enable: false
-comment: true
+lastmod: 2021-11-10T14:09:04.228Z
+author: Nabil
+featuredImage: ""
+title: Hello world
+subtitle: Ou comment tester son blog
+date: 2021-04-01T17:37:13+02:00
+tags: []
+featuredImagePreview: ""
 lightgallery: false
-license: ""
+description: Ceci est un résumé de l'article
+categories: []
+hiddenFromSearch: false
+comment: true
 ---
-gfdgdf
+First post on that blog !
