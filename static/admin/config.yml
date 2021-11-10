@@ -28,4 +28,3 @@ collections:
       #- {label: "Draft", name: "draft", widget: "boolean", default: true}
       #- {label: "Hidden Home Page", name: "hiddenFromHomePage", widget: "boolean", default: false}
       #- {label: "Hidden Search", name: "hiddenFromSearch", widget: "boolean", default: false}
-      #- {label: "Hidden Search", name: "hiddenFromSearch", widget: "boolean", default: false}
